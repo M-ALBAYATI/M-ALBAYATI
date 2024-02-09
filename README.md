@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mübarek ALBAYATI</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **.NET-Core ORM-Entity**
 
 - 📫 How to reach me **mubapc1@gmail.com**
 
