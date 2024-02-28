@@ -1,8 +1,6 @@
 
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **Angular**
-
 - 📫 How to reach me **mubapc1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
