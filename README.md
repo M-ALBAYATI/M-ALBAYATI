@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 - 📫 How to reach me **mubapc1@gmail.com**
-- All Projects **https://Albay-ati.com.tr**
+- All Projects =>  **https://Albay-ati.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
