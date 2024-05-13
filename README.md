@@ -4,7 +4,7 @@
 - All Projects =>  **https://Albay-ati.com.tr**
 
 <h3 align="left">Connect with me:</h3>
-<a href="mubapc1@gmail.com" target="_blank" rel="noreferrer">**mubapc1@gmail.com**<a/>
+<a href= "mailto: name@email.com" target="_blank" rel="noreferrer">mubapc1@gmail.com<a/>
 <p align="left">
 </p>
 
